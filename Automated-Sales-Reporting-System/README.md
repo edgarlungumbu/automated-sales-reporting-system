@@ -2,7 +2,7 @@
 
 ## Overview
 
-![img_11.png](img_11.png)
+![Executive Summary](Screenshots/Executive_Summary.png)
 
 An automated report system that transforms raw data into clean, structured reports. The system cleans and standardises input data, performs analysis, generates management summaries and exports the results into a formatted Excel workbook.
 
