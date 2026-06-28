@@ -55,28 +55,28 @@ The generated workbook includes:
 
 ### Executive Summary
 
-![img_12.png](img_12.png)
+![Executive Summary](Screenshots/Executive_Summary.png)
 
 ### Revenue by Category
 
-![img_13.png](img_13.png)
+![Revenue_by_Category](Screenshots/Revenue_by_Category.png)
 
 ### Revenue by Day
 
-![img_14.png](img_14.png)
+![Revenue_by_Day](Screenshots/Revenue_by_Day.png)
 
 ### Revenue by Month
 
-![img_15.png](img_15.png)
+![Revenue_by_Month](Screenshots/Revenue_by_Month.png)
 
 ### Top Products
 
-![img_16.png](img_16.png)
+![Top_Products](Screenshots/Top_Products.png)
 
 ### Cleaned Data
 
-![img_17.png](img_17.png)
+![Cleaned_Data](Screenshots/Cleaned_Data.png)
 
 ### Data Quality Summary
 
-![img_18.png](img_18.png)
+![Data_Quality_Summary](Screenshots/Data_Quality_Summary.png)
