@@ -1,5 +1,0 @@
-Requirements:
-
-- pandas
-- numpy
-- openpyxl
